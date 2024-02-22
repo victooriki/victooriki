@@ -6,10 +6,12 @@
     </a>
   </div>
 </div>
+<br>
 <div align="center">
   💻 Working as Back End <br>
   🏫 Software Engeneer <br>
 </div>
+<br>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victooriki&layout=compact&theme=dark"/>
 </div>
