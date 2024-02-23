@@ -13,6 +13,8 @@
 </div>
 <br>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victooriki&layout=compact&theme=dark"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=victooriki&theme=radical&show_icons=true&hide_border=false&count_private=true"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=victooriki&theme=radical&hide_border=false"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victooriki&theme=radical&show_icons=true&hide_border=false&layout=compact"/>
 </div>
   
