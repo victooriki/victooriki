@@ -15,6 +15,6 @@
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=victooriki&theme=radical&show_icons=true&hide_border=false&count_private=true"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=victooriki&theme=radical&hide_border=false"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victooriki&theme=radical&show_icons=true&hide_border=false&layout=compact"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victooriki&theme=tokyonight&show_icons=true&hide_border=false&layout=compact"/>
 </div>
   
