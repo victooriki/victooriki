@@ -8,7 +8,7 @@
 </div>
 <br>
 <div align="center">
-  💻 Working as Back End <br>
+  💻 Working as Fullstack <br>
   🏫 Software Engeneer <br>
 </div>
 <br>
