@@ -1,8 +1,8 @@
 <h1 align="center"> Victor Iki 💻</h1>
 <div id="header" align="center">
   <div id="badges">
-    <a href="victoor" target="_blank"> 
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <a href="https://www.linkedin.com/in/victoriki/" target="_blank"> 
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
   </div>
 </div>
